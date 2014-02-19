@@ -1,0 +1,31 @@
+Name: “Table 1 of 1 on page 83 of 88”,Name: “Table 1 of 1 on page 83 of 88”,Name: “Table 1 of 1 on page 83 of 88”,Name: “Table 1 of 1 on page 83 of 88”,Name: “Table 1 of 1 on page 83 of 88”
+Table: 83,Table: 83,Table: 83,Table: 83,Table: 83
+,,,,
+,,,,Toll Feasibility Study
+Table F-7 Input Parameter Distributions - Project Scenario 2,Table F-7 Input Parameter Distributions - Project Scenario 2,Table F-7 Input Parameter Distributions - Project Scenario 2,Table F-7 Input Parameter Distributions - Project Scenario 2,
+Parameter,Initial Value,Lower Limit,Upper Limit,Logic
+,,,,Despite model
+Toll Revenue Factor,1.0,0.7,1.6,"adaptations, most likely"
+,,,,estimating low.
+,,,,Little upper movement
+Annualization Factor,330,275,350,
+,,,,possibilities
+Ramp-up Factor,-30%,-60%,0%,Double to no impact
+,,,,Lower limit from Blue
+,,,,Chip Economic Indicators
+Inflation Rate,3.89%,2.5,4.5,
+,,,,Long-Range CPI forecast
+,,,,"Mar 10, 2004;"
+,,,,Restrain upper limit since
+Operations &,,,,
+,15%,10%,20%,assume VDOT would pick
+Maintenance Factor,,,,
+,,,,up higher costs
+Construction Start Year,2006,2005,2007,Down / up 1 year
+Interest Rate,5.85%,4.39%,7.31%,Down / up 25%
+Prelim Design &,,,,
+,3%,2%,4%,Down / up 1%-pt
+Engineering,,,,
+Construction Cost,"1,200,000,000","1,080,000,000","1,320,000,000",Down / up 10%
+Construction Length,11,8,14,Down / up 25%
+,,,,F-11

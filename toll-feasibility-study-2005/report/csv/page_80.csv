@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 80 of 88”,Name: “Table 1 of 1 on page 80 of 88”,Name: “Table 1 of 1 on page 80 of 88”,Name: “Table 1 of 1 on page 80 of 88”,Name: “Table 1 of 1 on page 80 of 88”
+Table: 80,Table: 80,Table: 80,Table: 80,Table: 80
+,,,,
+,,,,Toll Feasibility Study
+Table F-4 Input Parameter Distributions - US Route 460,Table F-4 Input Parameter Distributions - US Route 460,Table F-4 Input Parameter Distributions - US Route 460,Table F-4 Input Parameter Distributions - US Route 460,
+Parameter,Initial Value,Lower Limit,Upper Limit,Logic
+,,,,Despite model
+Toll Revenue Factor,1.0,0.7,1.6,"adaptations, most likely"
+,,,,estimating low.
+,,,,Little upper movement
+Annualization Factor,313,270,335,
+,,,,possibilities
+Year 1 Ramp-up Factor,85.7%,0%,171.4%,Double to no impact
+Year 2 Ramp-up Factor,57.2%,0%,114.4%,Double to no impact
+,,,,Lower limit from Blue
+,,,,Chip Economic Indicators
+Inflation Rate,3.89%,2.5,4.5,
+,,,,Long-Range CPI forecast
+,,,,"Mar 10, 2004;"
+,,,,Restrain upper limit since
+Operations &,,,,
+,30%,15%,35%,assume VDOT would pick
+Maintenance Percentage,,,,
+,,,,up higher costs
+Construction Start Year,2010,2009,2011,Down / up 1 year
+Interest Rate,5.85%,4.39%,7.31%,Down / up 25%
+Prelim Design &,,,,
+,3%,2%,4%,Down / up 1%-pt
+Engineering,,,,
+Construction Cost,"894,000,000","804,600,000","983,400,000",Down / up 10%
+Construction Length,8,6,10,Down / up 25%
+,,,,F-8

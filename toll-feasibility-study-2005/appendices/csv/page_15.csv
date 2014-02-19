@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”,Name: “Table 1 of 1 on page 15 of 55”
+Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15
+,,,,,,,,,,,,,,,,
+,,,,,Project Scenario 1,Project Scenario 1,Project Scenario 1,,,,,Project Scenario 2,Project Scenario 2,Project Scenario 2,,
+,,,,AM Peak,AM,AM,PM Peak Hour,PM,,,AM Peak,AM,AM,PM Peak Hour,PM,
+,,,,Hour Criteria,Peak,Peak,Criteria,Peak,PM Peak,,Hour Criteria,Peak,Peak,Criteria,Peak,PM Peak
+,,,,(Density4 ),Hour,Hour,(Density4 ),Hour,Hour,,(Density4 ),Hour,Hour,(Density4 ),Hour,Hour
+Planning,,,,(Avg Travel,Calc.,LOS,(Avg Travel,Calc.,LOS,,(Avg Travel,Calc.,LOS,(Avg Travel,Calc.,LOS
+Analysis,,Segments,ADT,Speed5 ),Volume,(HCS),Speed5 ),Volume,(HCS),ADT,Speed5 ),Volume,(HCS),Speed5 ),Volume,(HCS)
+,G,I-64 (on the Peninsula) (5 segments),,,,,,,,,,,,,,
+Freeway,G1,New Kent County Line to Route 30 (Exit 227),"9,600",,,,3.5,900,A,"9,600",,,,3.5,900,A
+Freeway,G2,Route 30 (Exit 220) to Croaker Rd (Exit 231),"67,700",,,,24.7,"6,100",C,"67,700",,,,24.7,"6,100",C
+Freeway,G3,Croaker Rd (Exit 231) to Route 199 @ Lightfoot (Exit 234),"81,400",,,,31.9,"7,300",D,"81,500",,,,32.0,"7,300",D
+Freeway,G4,Route 199 @ Lightfoot (Exit 234) to Camp Peary Rd (Exit 238),"71,700",,,,26.5,"6,500",D,"72,100",,,,26.7,"6,500",D
+Freeway,G5,Camp Peary Rd (Exit 238) to Route 199 @ Kingsmill (Exit 242),"75,500",,,,28.5,"6,800",D,"75,900",,,,28.7,"6,800",D
+,H,I-264 (4 segments),,,,,,,,,,,,,,
+Freeway,H1,Witchduck Rd to Independence Blvd,"215,700",,,,*,"19,400",F,"214,500",,,,*,"19,300",F
+Freeway,H2,Independence Blvd to Rosemont Rd,"176,600",,,,37.8,"15,900",E,"176,100",,,,37.5,"15,800",E
+Freeway,H3,Rosemont Rd to Lynnhaven Pkwy,"150,300",,,,28.2,"13,500",D,"150,200",,,,28.2,"13,500",D
+Freeway,H4 First Colonial Rd to proposed Southeastern Pkwy,H4 First Colonial Rd to proposed Southeastern Pkwy,"63,600",,,,15.2,"5,700",B,"63,800",,,,15.3,"5,700",B
+,I,Dam Neck Rd (2 segments),,,,,,,,,,,,,,
+Arterial,,I1 Holland Rd to London Bridge Ext,"42,200",,,,15.6,"3,800",F,"42,300",,,,15.5,"3,800",F
+Arterial,,I2 Proposed Southeastern Pkwy to Gen Booth Blvd,"28,000",,,,21.7,"2,500",D,"27,900",,,,21.7,"2,500",D
+,J,Birdneck Rd ( 2 segments),,,,,,,,,,,,,,
+Arterial,,J1 I-264 to VA Beach Blvd,"27,000",,,,14.3,"2,400",E,"26,900",,,,14.3,"2,400",E
+Arterial,,J2 Gen Booth Blvd to Norfolk Ave,"9,800",,,,28.2,900,B,"9,800",,,,28.2,900,B
+,K,Battlefield Blvd (2 segments),,,,,,,,,,,,,,
+Arterial,K1 Great Bridge Bypass to Volvo Pkwy,K1 Great Bridge Bypass to Volvo Pkwy,"49,200",23.1,"3,400",D,23.1,"4,000",D,"48,900",23.1,"3,400",D,23.2,"4,000",D
+Arterial,K2 Cedar Rd to Mt Pleasant Rd,K2 Cedar Rd to Mt Pleasant Rd,"42,500",11.8,"2,800",F,6.3,"3,100",F,"42,200",12.0,"2,800",F,6.6,"3,100",F
+,L,Kempsville Rd (2 segments),,,,,,,,,,,,,,
+Arterial,L1 Centreville Tpk to Indian River Rd,L1 Centreville Tpk to Indian River Rd,"32,900",16.2,"2,400",E,14.9,"2,900",F,"32,700",16.2,"2,400",E,14.6,"2,900",F
+Arterial,L2 Great Bridge Bypass to Greenbrier Pkwy,L2 Great Bridge Bypass to Greenbrier Pkwy,"38,100",24.6,"2,800",D,23.2,"3,700",D,"37,800",24.6,"2,800",D,23.2,"3,600",D
+,M,Indian River Rd (2 segments),,,,,,,,,,,,,,
+Arterial,M1 I-64 to Centreville Tpk,M1 I-64 to Centreville Tpk,"100,500",,,,3.3,"9,000",F,"101,000",,,,3.3,"9,100",F
+Arterial,M2 Independence Blvd to Elbow Rd,M2 Independence Blvd to Elbow Rd,"18,300",,,,30.0,"1,600",C,"18,400",,,,29.9,"1,700",C
+,N,Oceana Blvd (2 segments),,,,,,,,,,,,,,
+Arterial,N1 Gen Booth Blvd to Tomcat Blvd/proposed Southeastern Pkwy,N1 Gen Booth Blvd to Tomcat Blvd/proposed Southeastern Pkwy,"38,400",,,,7.2,"3,500",F,"38,200",,,,7.4,"3,400",F
+Arterial,N2 Tomcat Blvd/proposed Southeastern Pkwy to VA Beach Blvd,N2 Tomcat Blvd/proposed Southeastern Pkwy to VA Beach Blvd,"39,400",,,,27.4,"3,500",C,"39,400",,,,27.4,"3,500",C
+,"BUILD SCENARIO - ALL ABOVE SEGMENTS, PLUS:","BUILD SCENARIO - ALL ABOVE SEGMENTS, PLUS:",,,,,,,,,,,,,,
+,O,Hampton Roads Crossing Segment 1 (2 segments),,,,,,,,,,,,,,
+Freeway,"O1 Proposed EW Conn., I-564 to Hampton Blvd","O1 Proposed EW Conn., I-564 to Hampton Blvd",,,,,,,,,,,,,,
+Freeway,"O2 Proposed EW Conn., Hampton Blvd to I-664","O2 Proposed EW Conn., Hampton Blvd to I-664",,,,,,,,,,,,,,
+,P,Hampton Roads Crossing (4 segments),,,,,,,,,,,,,,
+,P1/O1,"Proposed EW Conn., I-564 to Hampton Blvd","19,500",,,,7.2,"1,800",A,,,,,,,
+,P2,"Proposed EW Conn., Hampton Blvd to Craney Island Conn.","33,000",,,,11.9,"3,000",B,,,,,,,
+,P3,"Proposed EW Conn., Craney Island Conn. to I-664","25,100",,,,9.1,"2,300",A,,,,,,,
+,P4,Proposed Craney Island Conn.,"7,900",,,,2.8,700,A,,,,,,,
+,Q,Midtown Tunnel and MLK Frwy Extension (1 segment),,,,,,,,,,,,,,
+,"Q1 MLK Frwy, I-264 to High St","Q1 MLK Frwy, I-264 to High St",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,G-12

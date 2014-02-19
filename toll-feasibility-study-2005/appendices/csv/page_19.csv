@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”,Name: “Table 1 of 1 on page 19 of 55”
+Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19,Table: 19
+,,,,,,,,,,,,,,
+,,,,,,,,,,Project Scenario 3,Project Scenario 3,Project Scenario 3,,
+,,,,,,,,,AM Peak,AM,AM,PM Peak Hour,PM,
+,,,,,,,,,Hour Criteria,Peak,Peak,Criteria,Peak,PM Peak
+,,,,,,,,,(Density4 ),Hour,Hour,(Density4 ),Hour,Hour
+,,Planning,,,,,,,(Avg Travel,Calc.,LOS,(Avg Travel,Calc.,LOS
+,,Analysis,,,Segments,,,ADT,Speed5 ),Volume,(HCS),Speed 5),Volume,(HCS)
+,,R,New Alignment Route 460 (4 segments),New Alignment Route 460 (4 segments),New Alignment Route 460 (4 segments),,,,,,,,,
+,,R1,Route 58 Bypass to Windsor town limits,Route 58 Bypass to Windsor town limits,Route 58 Bypass to Windsor town limits,,,,,,,,,
+,,R2,Windsor town limits to Ivor,Windsor town limits to Ivor,Windsor town limits to Ivor,,,,,,,,,
+,,R3,Ivor to Wakefield,Ivor to Wakefield,,,,,,,,,,
+,,R4,Wakefield to Waverly,Wakefield to Waverly,,,,,,,,,,
+,,R5,Waverly to Route 625,Waverly to Route 625,,,,,,,,,,
+,,R6,Route 625 to Route 156,Route 625 to Route 156,Route 625 to Route 156,,,,,,,,,
+,,R7,Route 156 to I-295,Route 156 to I-295,,,,,,,,,,
+,,S,Southeastern Parkway (6 segments),Southeastern Parkway (6 segments),Southeastern Parkway (6 segments),,,,,,,,,
+,,S1,Great Bridge Bypass to Centreville Tpk,Great Bridge Bypass to Centreville Tpk,Great Bridge Bypass to Centreville Tpk,,,,,,,,,
+,,S2,Centreville Tpk to Indian River Rd,Centreville Tpk to Indian River Rd,Centreville Tpk to Indian River Rd,,,,,,,,,
+,,S3,Indian River Rd to Princess Anne Rd,Indian River Rd to Princess Anne Rd,Indian River Rd to Princess Anne Rd,,,,,,,,,
+,,S4,Princess Anne Rd to Dam Neck Rd,Princess Anne Rd to Dam Neck Rd,Princess Anne Rd to Dam Neck Rd,,,,,,,,,
+,,S5,Dam Neck Rd to Oceana Blvd,Dam Neck Rd to Oceana Blvd,Dam Neck Rd to Oceana Blvd,,,,,,,,,
+,,S6 Oceana Blvd to I-264,S6 Oceana Blvd to I-264,S6 Oceana Blvd to I-264,,,,,,,,,,
+,,LEVEL OF SERVICE,A,B,C,D,E,F,,,,,,
+,,FREEWAY (Density pc/mi/ln),0-11,> 11-18,> 18-26,> 26-35,> 35-45,>45,,,,,,
+,ARTERIAL - CLASS 1 (Average Travel Speed mph),,>42,>34-42,>27-34,>21-27,>16-21,"
+    ",,,,,,
+,ARTERIAL - CLASS 2 (Average Travel Speed mph),,>35,>28-35,>22-28,>17-22,>13-17,"
+    ",,,,,,
+,ARTERIAL - CLASS 3 (Average Travel Speed mph),,>30,>24-30,>18-24,>14-18,>10-14,"
+    ",,,,,,
+Notes*,,,,,,,,,,,,,,
+"1. PHF based on data from studies:Norfolk LOS study, Newport etc.","1. PHF based on data from studies:Norfolk LOS study, Newport etc.","1. PHF based on data from studies:Norfolk LOS study, Newport etc.",,,,,,,,,,,,
+2. K factor based on HRPDC,,,,,,,,,,,,,,
+3. D Factor based on HRPDC & Studies: etc.,,,,,,,,,,,,,,
+4. Density for Freeway Segments (pc/mi/ln),,,,,,,,,,,,,,
+5.,Average Travel Speed for Arterial Segments (mph),,,,,,,,,,,,,
+*I-264 Corridor Study completed by URS.,,,,,,,,,,,,,,
+Elbow Road Study completed by FHI.,,,,,,,,,,,,,,
+I-264 Lynnhaven/Great Neck Interchange Study completed by FHI.,I-264 Lynnhaven/Great Neck Interchange Study completed by FHI.,I-264 Lynnhaven/Great Neck Interchange Study completed by FHI.,,,,,,,,,,,,
+,,,,,,,,,,,,,,G-16

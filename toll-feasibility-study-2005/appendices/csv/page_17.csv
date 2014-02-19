@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”,Name: “Table 1 of 1 on page 17 of 55”
+Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17
+,,,,,,,,,,
+,,,,,,Project Scenario 3,Project Scenario 3,Project Scenario 3,,
+,,,,,AM Peak,AM,AM,PM Peak Hour,PM,
+,,,,,Hour Criteria,Peak,Peak,Criteria,Peak,PM Peak
+,,,,,(Density4 ),Hour,Hour,(Density4 ),Hour,Hour
+Planning,,,,,(Avg Travel,Calc.,LOS,(Avg Travel,Calc.,LOS
+Analysis,,Segments,,ADT,Speed5 ),Volume,(HCS),Speed5 ),Volume,(HCS)
+,A,Hampton Roads Beltway (17 Segments),Hampton Roads Beltway (17 Segments),,,,,,,
+Freeway,A1,"I-64, I-664 to Armistead Ave",,"133,300",,,,38.1,"12,000",E
+Freeway,A2,"I-64, Armistead Ave to Hampton Roads Bridge Tunnel","I-64, Armistead Ave to Hampton Roads Bridge Tunnel","112,000",,,,28.1,"10,100",D
+Freeway,A3,Hampton Roads Bridge Tunnel,,"104,400",,,,*,"9,400",F
+Freeway,A4,"I-64, Hampton Roads Bridge Tunnel to I-564","I-64, Hampton Roads Bridge Tunnel to I-564","93,500",,,,42.6,"8,400",E
+Freeway,A5,"I-64, I-564 to Chesapeake Blvd",,"155,200",,,,*,"14,000",F
+Freeway,A6,"I-64, Chesapeake Blvd to Northampton Blvd","I-64, Chesapeake Blvd to Northampton Blvd","163,600",,,,*,"14,700",F
+Freeway,A7,"I-64, Northampton Blvd to I-264",,"171,200",,,,35.1,"15,400",E
+Freeway,A8,"I-64, I-264 to Indian River Rd",,"158,100",,,,30.5,"14,200",D
+Freeway,A9,"I-64, Indian River Rd to Greenbrier Pkwy","I-64, Indian River Rd to Greenbrier Pkwy","154,800",,,,29.6,"13,900",D
+Freeway,A10,"I-64, Greenbrier Pkwy to I-464",,"144,200",,,,26.8,"13,000",D
+Freeway,A11,"I-64, I-464 to I-264",,"115,200",,,,*,"10,400",F
+Freeway,A12,"I-664, I-264 to Route 58",,"125,300",,,,22.8,"11,300",C
+Freeway,A13,"I-664, Route 58 to Route 164/Western Frwy","I-664, Route 58 to Route 164/Western Frwy","88,300",,,,37.4,"7,900",E
+Freeway,A14,"I-664, Route 164/Western Frwy to proposed EW Conn.","I-664, Route 164/Western Frwy to proposed EW Conn.","64,300",,,,23.3,"5,800",C
+Freeway,A15,"I-664, proposed EW Conn. to 23rd St",,"79,000",,,,30.6,"7,100",D
+Freeway,A16,"I-664, 23rd St to Aberdeen Rd",,"80,300",,,,32.5,"7,200",D
+Freeway,A17,"I-664, Aberdeen Rd to I-64",,"83,900",,,,35.9,"7,500",E
+,B,Midtown Tunnel area (3 segments),,,,,,,,
+Two-Lane,B1,Midtown Tunnel,,"23,800",,,,-,,E
+Freeway,B2,"MLK Frwy, High St to Pinner's Point Conn.","MLK Frwy, High St to Pinner's Point Conn.",,,,,,,
+Freeway,"B3 Western Frwy (Route 164, Town Point Rd to MLK Frwy","B3 Western Frwy (Route 164, Town Point Rd to MLK Frwy","B3 Western Frwy (Route 164, Town Point Rd to MLK Frwy","62,600",,,,22.6,"5,600",C
+,C,Route 460 (6 segments),,,,,,,,
+Multi-Lane,C1,I-664 to Route 58 Bypass,,"84,800",-,"6,600",D,-,"7,100",C
+Freeway,C2,Route 58 Bypass,,,,,,,,
+Multi-Lane,C3,Route 58 Bypass to Windsor,,,,,,,,
+Multi-Lane,C4,Windsor to Waverly,,,,,,,,
+Multi-Lane,C5,Waverly to Route 156,,,,,,,,
+Multi-Lane,C6 Route 156 to I-295,C6 Route 156 to I-295,,,,,,,,
+,D,Oak Grove Conn. & Dominion Blvd (4 segments),Oak Grove Conn. & Dominion Blvd (4 segments),,,,,,,
+Two-Lane,D1,"Dominion Blvd, Route 17 to Cedar Rd",,"13,000",-,800,E,-,"1,000",E
+Arterial,D2,"Dominion Blvd, Cedar Rd to Bainbridge",Blvd,"36,900",2.7,"2,900",F,3.0,"3,100",F
+Arterial,D3,"Dominion Blvd, Bainbridge Blvd to Great Bridge Blvd","Dominion Blvd, Bainbridge Blvd to Great Bridge Blvd",,,,,,,
+Freeway,D4 Oak Grove Conn. (from I-64 to Battlefield Blvd),D4 Oak Grove Conn. (from I-64 to Battlefield Blvd),D4 Oak Grove Conn. (from I-64 to Battlefield Blvd),"146,800",,,,*,"13,200",F
+,E,Hampton Blvd & Brambleton Ave (5 segments),Hampton Blvd & Brambleton Ave (5 segments),,,,,,,
+Arterial,E1,Brambleton Ave to 21st St,,"25,300",14.3,"1,700",E,13.9,"1,900",E
+Arterial,E2,38th St to Little Creek Rd,,"36,800",18.9,"2,400",D,18.2,"2,900",D
+Arterial,E3,Little Creek Rd to proposed EW Conn.,,"33,900",20.5,"2,400",D,21.3,"2,600",D
+Arterial,E4,Proposed EW Conn. to Adm Taussig Blvd,Proposed EW Conn. to Adm Taussig Blvd,"34,100",17.3,"2,600",D,18.3,"2,600",D
+Arterial,"E5 Brambleton Ave, Colley Ave to Boush St","E5 Brambleton Ave, Colley Ave to Boush St","E5 Brambleton Ave, Colley Ave to Boush St","65,000",4.2,"5,300",F,3.5,"5,500",F
+,F,Downtown Tunnel Area (5 segments),,,,,,,,
+Freeway,F1,Downtown Tunnel (I-264 from Portsmouth to I-464),Downtown Tunnel (I-264 from Portsmouth to I-464),"39,800",,,,18.9,"3,600",C
+Freeway,F2,Berkley Bridge (I-264 from Waterside to I-464),Berkley Bridge (I-264 from Waterside to I-464),"104,200",,,,23.8,"9,400",C
+Two-Lane,F3,Jordan Bridge(Poindexter from Portsmouth to I-464),Jordan Bridge(Poindexter from Portsmouth to I-464),"34,600",,,,-,,F
+Arterial,F4,"Effingham St, I-264 to South St",,"24,400",10.0,"2,400",F,10.0,"2,400",F
+Arterial,"F5 Frederick Blvd, I-264 to Turnpike Rd","F5 Frederick Blvd, I-264 to Turnpike Rd",,"40,700",3.5,"4,100",F,3.5,"4,100",F
+,,,,,,,,,,G-14
